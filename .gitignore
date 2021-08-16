@@ -1,0 +1,5 @@
+node_modules
+.env
+comandos npx.txt
+.editorconig
+.eslintrc
